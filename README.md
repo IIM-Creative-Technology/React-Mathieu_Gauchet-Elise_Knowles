@@ -4,7 +4,7 @@ Quiz réalisé en React
 
 ## Lien de la demo 
 
->  https://amazing-perlman-e6ff67.netlify.app/
+>  https://qwiz-mgek.netlify.app/Quiz2
 
 ## Installer le projet
 

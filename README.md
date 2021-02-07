@@ -4,7 +4,7 @@ Quiz réalisé en React
 
 ## Lien de la demo 
 
->  https://qwiz-mgek.netlify.app/Quiz2
+>  https://qwiz-mgek.netlify.app/
 
 ## Installer le projet
 
